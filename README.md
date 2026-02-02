@@ -12,14 +12,3 @@ I write on [my blog](https://justin.abrah.ms/) and spend time in my workshop.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-# Live Stats
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=justinabrahms&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
-</p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinabrahms&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinabrahms&count_private=true&langs_count=7&hide=html,postscript&layout=compact&theme=tokyonight" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinabrahms&theme=tokyonight)](https://git.io/streak-stats)
