@@ -8,7 +8,12 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 
 I write on [my blog](https://justin.abrah.ms/) and spend time in my workshop.
 
-# Live Stats 📊
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+# Live Stats
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=justinabrahms&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
