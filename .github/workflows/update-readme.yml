@@ -22,3 +22,4 @@ jobs:
           feed_list: "https://justin.abrah.ms/rss.xml"
           max_post_count: 3
           template: "$newline- [$title]($url) ($date)"
+          date_format: "yyyy-mm-dd"
