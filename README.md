@@ -10,7 +10,7 @@ I write on [my blog](https://justin.abrah.ms/) and spend time in my workshop.
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [AI Doesn&#39;t Work Without Good Inputs &lpar;And Neither Do Humans&rpar;](https://justin.abrah.ms/blog/2026-01-27-ai-doesn-t-work-without-good-inputs-and-neither-do-humans.html)
-- [agent-chat: a way to monitor multi-agent orchestration](https://justin.abrah.ms/blog/2026-01-24-agent-chat-a-way-to-monitor-multi-agent-orchestration.html)
-- [multiclaude, a different take on llm orchestration](https://justin.abrah.ms/blog/2026-01-20-multiclaude-a-different-take-on-llm-orchestration.html)
+<!-- BLOG-POST-LIST:START -->- [AI Doesn&#39;t Work Without Good Inputs &lpar;And Neither Do Humans&rpar;](https://justin.abrah.ms/blog/2026-01-27-ai-doesn-t-work-without-good-inputs-and-neither-do-humans.html) (Tue Jan 27 2026 12:00 AM)
+- [agent-chat: a way to monitor multi-agent orchestration](https://justin.abrah.ms/blog/2026-01-24-agent-chat-a-way-to-monitor-multi-agent-orchestration.html) (Sat Jan 24 2026 12:00 AM)
+- [multiclaude, a different take on llm orchestration](https://justin.abrah.ms/blog/2026-01-20-multiclaude-a-different-take-on-llm-orchestration.html) (Tue Jan 20 2026 12:00 AM)
 <!-- BLOG-POST-LIST:END -->
