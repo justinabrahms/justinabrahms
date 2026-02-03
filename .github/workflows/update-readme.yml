@@ -21,4 +21,4 @@ jobs:
         with:
           feed_list: "https://justin.abrah.ms/rss.xml"
           max_post_count: 3
-          template: "- [$title]($url) ($date)$newline"
+          template: "$newline- [$title]($url) ($date)"
