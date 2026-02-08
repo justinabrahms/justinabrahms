@@ -8,6 +8,6 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 [My blog](https://justin.abrah.ms/blog/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Recommended reviewers to build your council](https://justin.abrah.ms/blog/2026-02-06-recommended-reviewers-to-build-your-council.html) (2026-02-06)
 - [AI Doesn&#39;t Work Without Good Inputs &lpar;And Neither Do Humans&rpar;](https://justin.abrah.ms/blog/2026-01-27-ai-doesn-t-work-without-good-inputs-and-neither-do-humans.html) (2026-01-27)
-- [agent-chat: a way to monitor multi-agent orchestration](https://justin.abrah.ms/blog/2026-01-24-agent-chat-a-way-to-monitor-multi-agent-orchestration.html) (2026-01-24)
-- [multiclaude, a different take on llm orchestration](https://justin.abrah.ms/blog/2026-01-20-multiclaude-a-different-take-on-llm-orchestration.html) (2026-01-20)<!-- BLOG-POST-LIST:END -->
+- [agent-chat: a way to monitor multi-agent orchestration](https://justin.abrah.ms/blog/2026-01-24-agent-chat-a-way-to-monitor-multi-agent-orchestration.html) (2026-01-24)<!-- BLOG-POST-LIST:END -->
