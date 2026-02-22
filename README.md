@@ -8,6 +8,6 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 [My blog](https://justin.abrah.ms/blog/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Claws don&#39;t need to be complicated](https://justin.abrah.ms/blog/2026-02-21-claws-don-t-need-to-be-complicated.html) (2026-02-21)
 - [How to diff a book against your mind](https://justin.abrah.ms/blog/2026-02-18-how-to-diff-a-book-against-your-mind.html) (2026-02-18)
-- [Announcing FRM, a CLI based CRM... 15 years in the making](https://justin.abrah.ms/blog/2026-02-17-frm-a-cli-based-crm-15-years-in-the-making.html) (2026-02-17)
-- [How to generate demo videos with playwright](https://justin.abrah.ms/blog/2026-02-12-generating-demo-videos-with-playwright.html) (2026-02-12)<!-- BLOG-POST-LIST:END -->
+- [Announcing FRM, a CLI based CRM... 15 years in the making](https://justin.abrah.ms/blog/2026-02-17-frm-a-cli-based-crm-15-years-in-the-making.html) (2026-02-17)<!-- BLOG-POST-LIST:END -->
