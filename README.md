@@ -9,5 +9,5 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 
 <!-- BLOG-POST-LIST:START -->
 - [On MCPs vs CLIs](https://justin.abrah.ms/blog/2026-03-07-on-mcps-vs-clis.html) (2026-03-07)
-- [CI Theater: we deleted our flaky tests and nothing broke](https://justin.abrah.ms/2026-02-26-ci-theater-we-deleted-our-flaky-tests-and-nothing-broke.html) (2026-02-26)
+- [CI Theater: we deleted our flaky tests and nothing broke](https://justin.abrah.ms/blog/2026-02-26-ci-theater-we-deleted-our-flaky-tests-and-nothing-broke.html) (2026-02-26)
 - [Claws don&#39;t need to be complicated](https://justin.abrah.ms/blog/2026-02-21-claws-don-t-need-to-be-complicated.html) (2026-02-21)<!-- BLOG-POST-LIST:END -->
