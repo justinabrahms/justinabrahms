@@ -8,6 +8,6 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 [My blog](https://justin.abrah.ms/blog/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools I use: Ghostty](https://justin.abrah.ms/configs/ghostty.html) (2026-03-17)
 - [Scaling at the mediumest company: half-measures save the day](https://justin.abrah.ms/blog/2026-03-09-scaling-at-the-mediumest-company-half-measures-save-the-day.html) (2026-03-09)
-- [On MCPs vs CLIs](https://justin.abrah.ms/blog/2026-03-07-on-mcps-vs-clis.html) (2026-03-07)
-- [CI Theater: we deleted our flaky tests and nothing broke](https://justin.abrah.ms/blog/2026-02-26-ci-theater-we-deleted-our-flaky-tests-and-nothing-broke.html) (2026-02-26)<!-- BLOG-POST-LIST:END -->
+- [On MCPs vs CLIs](https://justin.abrah.ms/blog/2026-03-07-on-mcps-vs-clis.html) (2026-03-07)<!-- BLOG-POST-LIST:END -->
