@@ -8,6 +8,6 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 [My blog](https://justin.abrah.ms/blog/)
 
 <!-- BLOG-POST-LIST:START -->
+- [A skill for single-player agentic knowledge management](https://justin.abrah.ms/blog/2026-08-26-a-skill-for-single-player-agentic-knowledge-management.html) (2026-08-26)
 - [Concept to Cash: Initiative retrospectives and visualization](https://justin.abrah.ms/blog/2026-08-14-concept-to-cash-initiative-retrospectives-and-visualization.html) (2026-08-14)
-- [A framework for cataloguing technical debt](https://justin.abrah.ms/blog/2026-07-30-a-framework-for-cataloguing-technical-debt.html) (2026-07-30)
-- [Tools I use: Ghostty](https://justin.abrah.ms/configs/ghostty.html) (2026-03-17)<!-- BLOG-POST-LIST:END -->
+- [A framework for cataloguing technical debt](https://justin.abrah.ms/blog/2026-07-30-a-framework-for-cataloguing-technical-debt.html) (2026-07-30)<!-- BLOG-POST-LIST:END -->
