@@ -8,6 +8,6 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 [My blog](https://justin.abrah.ms/blog/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Escalation isn&#39;t telling on someone](https://justin.abrah.ms/blog/2026-11-03-the-role-of-escalations-in-an-organization.html) (2026-11-03)
 - [A skill for single-player agentic knowledge management](https://justin.abrah.ms/blog/2026-08-26-a-skill-for-single-player-agentic-knowledge-management.html) (2026-08-26)
-- [Concept to Cash: Initiative retrospectives and visualization](https://justin.abrah.ms/blog/2026-08-14-concept-to-cash-initiative-retrospectives-and-visualization.html) (2026-08-14)
-- [A framework for cataloguing technical debt](https://justin.abrah.ms/blog/2026-07-30-a-framework-for-cataloguing-technical-debt.html) (2026-07-30)<!-- BLOG-POST-LIST:END -->
+- [Concept to Cash: Initiative retrospectives and visualization](https://justin.abrah.ms/blog/2026-08-14-concept-to-cash-initiative-retrospectives-and-visualization.html) (2026-08-14)<!-- BLOG-POST-LIST:END -->
