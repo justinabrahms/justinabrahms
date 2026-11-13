@@ -8,6 +8,6 @@ Hello. I'm Justin Abrahms, a "self-taught" programmer working in the intersectio
 [My blog](https://justin.abrah.ms/blog/)
 
 <!-- BLOG-POST-LIST:START -->
+- [LeadDev Berlin 2026 Trip Report: AI Speed, Measurement, and Platforms vs. Product](https://justin.abrah.ms/blog/2026-11-12-trip-report-leaddev-berlin-2026.html) (2026-11-12)
 - [Escalation isn&#39;t telling on someone](https://justin.abrah.ms/blog/2026-11-03-the-role-of-escalations-in-an-organization.html) (2026-11-03)
-- [A skill for single-player agentic knowledge management](https://justin.abrah.ms/blog/2026-08-26-a-skill-for-single-player-agentic-knowledge-management.html) (2026-08-26)
-- [Concept to Cash: Initiative retrospectives and visualization](https://justin.abrah.ms/blog/2026-08-14-concept-to-cash-initiative-retrospectives-and-visualization.html) (2026-08-14)<!-- BLOG-POST-LIST:END -->
+- [A skill for single-player agentic knowledge management](https://justin.abrah.ms/blog/2026-08-26-a-skill-for-single-player-agentic-knowledge-management.html) (2026-08-26)<!-- BLOG-POST-LIST:END -->
